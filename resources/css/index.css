@@ -1,0 +1,41 @@
+table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    width: 50%;
+    background-color: rgb(247, 247, 247);
+    }
+
+th, td, tr {
+        border: 1px solid black;
+    }
+
+th {
+color: rgb(243, 57, 116);
+    }
+
+th, td {
+        padding: 10px;
+    }
+    
+h1 {
+    background-color: rgb(219,112,147);
+    text-align: center;
+
+}
+.column1 {
+    font-family: Courier, Monaco, monospace; 
+    font-size: small;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: right;
+}
+
+strong {
+    color: rgb(205,92,92);
+}
+
